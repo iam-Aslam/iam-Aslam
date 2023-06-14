@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Aslam</h1>
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.digisailor.com/assets/img/services-details/mobile_app_development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="iam-aslam" /> </p>
