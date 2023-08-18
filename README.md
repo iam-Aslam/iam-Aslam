@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="iam-aslam" /> </p>
 
-- 🌱 I’m currently learning **Riverpod**
+- 🌱 I’m currently learning **Sqflite**
 
 - 💬 Ask me about **Flutter Dart Android Java**
 
