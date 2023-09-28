@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="iam-aslam" /> </p>
 
-- 🌱 I’m currently learning **Sqflite**
+- 🌱 I’m currently learning **MVVM**
 
 - 💬 Ask me about **Flutter Dart Android Java**
 
@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-aslam&show_icons=true&locale=en" alt="iam-aslam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-aslam&" alt="iam-aslam" /></p>
