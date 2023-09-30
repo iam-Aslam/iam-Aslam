@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MVVM**
 
-- 💬 Ask me about **Flutter Dart Android Java**
+- 💬 Ask me about **Flutter Dart Android**
 
 - 📫 How to reach me **mohammedaslammk37@gmail.com**
 
