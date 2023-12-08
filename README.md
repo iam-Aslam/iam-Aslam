@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CI/CD**
 
-- 💬 Ask me about **Flutter Dart Android**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mohammedaslammk37@gmail.com**
 
